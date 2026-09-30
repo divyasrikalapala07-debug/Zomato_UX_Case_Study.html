@@ -1,4 +1,7 @@
-# 🍽️ Zomato UX Case Study
+# 🍽️ Zomato UX Case Studyy
+live demo
+Your site is live at https://divyasrikalapala07-debug.github.io/Zomato_UX_Case_Study.html/
+Last deployed by @divyasrikalapala07-debug divyasrikalapala07-debug 2 minutes ago
 
 ## 📌 Project Overview
 
